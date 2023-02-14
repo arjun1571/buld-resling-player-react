@@ -1,0 +1,10 @@
+.cart-d{
+    border: 2px solid gray;
+    height: auto;
+   margin: 10px;
+   width: 300px;
+   border-radius: 10px;
+}
+.img-style{
+    width: 100%;
+}

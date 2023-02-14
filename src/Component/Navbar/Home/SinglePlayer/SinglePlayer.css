@@ -1,0 +1,5 @@
+.cart-con{
+    display: grid;
+    grid-template-columns: 50% 2fr;
+    
+}
